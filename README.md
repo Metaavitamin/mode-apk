@@ -1,0 +1,2 @@
+# mode-apk
+mode apk
